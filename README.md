@@ -6,5 +6,5 @@
 📫 **Email:** [contact@gbg-web.com](mailto:contact@gbg-web.com)  
 <a href="https://www.yourhomepage.com">Visit our homepage</a>
 
-<a href="gbg-web.com">🔗 **Portfolio:** gbg-web.com </a>
-<a href="github.com/sabrkei">📁 **GitHub:** github.com/sabrkei </a>
+<a href="https://gbg-web.com">🔗 **Portfolio:**</a>
+<a href="https://github.com/sabrkei">📁 **GitHub:**</a>
