@@ -4,5 +4,5 @@
 </p>
 
 📫 **Email:** [contact@gbg-web.com](mailto:contact@gbg-web.com)  
-🔗 **Portfolio:** https://gbg-web.com/ 
-📁 **GitHub:** https://github.com/sabrkei
+🔗 **Portfolio:** <a href="gbg-web.com">
+📁 **GitHub:** <a href="github.com/sabrkei">
