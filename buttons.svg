@@ -1,21 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 80" width="570" height="80">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a1a2e"/>
-      <stop offset="50%" style="stop-color:#16213e"/>
-      <stop offset="100%" style="stop-color:#0f3460"/>
+      <stop offset="0%" style="stop-color:#0d0d0f"/>
+      <stop offset="100%" style="stop-color:#111113"/>
     </linearGradient>
     <style>
-      .btn-bg { fill: rgba(255,255,255,0.08); stroke: rgba(255,255,255,0.18); stroke-width: 0.8; }
-      .btn-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 500; fill: #e8e8ff; dominant-baseline: middle; }
-      .icon { fill: #e8e8ff; }
-      .icon-stroke { fill: none; stroke: #e8e8ff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
-      a:hover .btn-bg { fill: rgba(255,255,255,0.15); }
-      .btn-li:hover .btn-bg   { stroke: #0A66C2; filter: drop-shadow(0 0 8px #0A66C255); }
-      .btn-gh:hover .btn-bg   { stroke: rgba(255,255,255,0.5); filter: drop-shadow(0 0 8px rgba(255,255,255,0.25)); }
-      .btn-npm:hover .btn-bg  { stroke: #CB3837; filter: drop-shadow(0 0 8px #CB383755); }
-      .btn-web:hover .btn-bg  { stroke: #4285F4; filter: drop-shadow(0 0 8px #4285F455); }
-      .btn-mail:hover .btn-bg { stroke: #EA4335; filter: drop-shadow(0 0 8px #EA433555); }
+      .btn-bg { fill: #1e1e22; stroke: #2e2e36; stroke-width: 0.8; }
+      .btn-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13px; font-weight: 500; fill: #e8e8f0; dominant-baseline: middle; }
+      .icon { fill: #e8e8f0; }
+      .icon-stroke { fill: none; stroke: #e8e8f0; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+      a:hover .btn-bg { fill: #26262c; }
+      .btn-li:hover .btn-bg   { stroke: #0A66C2; filter: drop-shadow(0 0 8px #0A66C244); }
+      .btn-gh:hover .btn-bg   { stroke: #aaaaaa; filter: drop-shadow(0 0 8px #aaaaaa33); }
+      .btn-npm:hover .btn-bg  { stroke: #CB3837; filter: drop-shadow(0 0 8px #CB383744); }
+      .btn-web:hover .btn-bg  { stroke: #4285F4; filter: drop-shadow(0 0 8px #4285F444); }
+      .btn-mail:hover .btn-bg { stroke: #EA4335; filter: drop-shadow(0 0 8px #EA433544); }
     </style>
   </defs>
 
