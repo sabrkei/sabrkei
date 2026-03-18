@@ -1,23 +1,48 @@
 <!-- Banner Image -->
 <p align="center">
   <img src="/gbg-web-banner.jpeg" alt="Scott's Dev Banner" width="100%"><br>
-<div align="center">
-<!-- BUTTONS (NO GAP UNDERLINES) -->
-<a href="https://www.linkedin.com/in/scottabrahamkeinstrom/" target="_blank" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111827"
-style="border-radius:999px; box-shadow:0 0 12px rgba(10,102,194,0.6); margin:6px;" /></a><!--
---><a href="https://gbg-web.com" target="_blank" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=ffffff"
-style="border-radius:999px; box-shadow:0 0 12px rgba(255,255,255,0.3); margin:6px;" /></a><!--
---><a href="https://github.com/sabrkei" target="_blank" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff"
-style="border-radius:999px; box-shadow:0 0 12px rgba(255,255,255,0.3); margin:6px;" /></a><!--
---><a href="mailto:scottabraham87@gmail.com" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"
-style="border-radius:999px; box-shadow:0 0 12px rgba(234,67,53,0.6); margin:6px;" /></a><!--
---><a href="https://www.npmjs.com/~sabrkei" target="_blank" style="text-decoration:none;">
-<img src="https://img.shields.io/badge/NPM-111827?style=for-the-badge&logo=npm&logoColor=CC3534"
-style="border-radius:999px; box-shadow:0 0 12px rgba(204,53,52,0.6); margin:6px;" /></a>
+<div align="center"><div align="center" style="text-decoration:none;">
+
+<!-- AVATAR -->
+<img src="https://github.com/sabrkei.png" width="120"
+     style="border-radius:50%; border:3px solid #1f2937; box-shadow:0 0 20px rgba(99,102,241,0.6);" />
+
+<br><br>
+
+<h2 style="color:#e5e7eb; font-weight:600;">Scott Abraham Keinstrom</h2>
+<p style="color:#9ca3af;">IT Support Technician • Web Developer • Problem Solver</p>
+
+<br>
+
+<!-- BUTTONS -->
+<div>
+
+<a href="https://www.linkedin.com/in/scottabrahamkeinstrom/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111827"
+       style="border-radius:999px; box-shadow:0 0 12px rgba(10,102,194,0.6); margin:8px;" />
+</a>
+
+<a href="https://gbg-web.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=ffffff"
+       style="border-radius:999px; box-shadow:0 0 12px rgba(255,255,255,0.3); margin:8px;" />
+</a>
+
+<a href="https://github.com/sabrkei" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff"
+       style="border-radius:999px; box-shadow:0 0 12px rgba(255,255,255,0.3); margin:8px;" />
+</a>
+
+<a href="mailto:scottabraham87@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"
+       style="border-radius:999px; box-shadow:0 0 12px rgba(234,67,53,0.6); margin:8px;" />
+</a>
+
+<a href="https://www.npmjs.com/~sabrkei" target="_blank">
+  <img src="https://img.shields.io/badge/NPM-111827?style=for-the-badge&logo=npm&logoColor=CC3534"
+       style="border-radius:999px; box-shadow:0 0 12px rgba(204,53,52,0.6); margin:8px;" />
+</a>
+
+</div>
 
 <br><br>
 
@@ -27,7 +52,6 @@ style="border-radius:999px; box-shadow:0 0 12px rgba(204,53,52,0.6); margin:6px;
 
 <br><br>
 
-<!-- STREAK -->
 <img src="https://streak-stats.demolab.com?user=sabrkei&theme=tokyonight&hide_border=true&background=00000000" />
 
 </div>
