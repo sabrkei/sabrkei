@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111827"
        style="border-radius:999px; box-shadow:0 0 12px rgba(10,102,194,0.6); margin:8px;" /></a>
 
-<a href="https://gbg-web.com" target="_blank">
+<a href="https://sabrkei.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=ffffff"
        style="border-radius:999px; box-shadow:0 0 12px rgba(255,255,255,0.3); margin:8px;" /></a>
 
