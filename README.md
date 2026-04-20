@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="/gbg-web-banner.jpeg" alt="Scott's Dev Banner" width="100%"><br>
+  <img src="/devbanner.jpeg" alt="Scott's Dev Banner" width="100%"><br>
 <div align="center"><div align="center" style="text-decoration:none;">
 <!-- BUTTONS -->
 <div>
